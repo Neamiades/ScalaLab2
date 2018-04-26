@@ -1,0 +1,6 @@
+http://www.metronews.ca/feeds.articles.life.money.rss
+https://www.economist.com/sections/economics/rss.xml
+http://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml
+https://rss.unian.net/site/news_eng.rss
+http://www.metronews.ca/feeds.articles.news.world.rss
+http://www.metronews.ca/feeds.articles.news.edmonton.rss
